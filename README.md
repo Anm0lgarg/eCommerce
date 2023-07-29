@@ -26,3 +26,7 @@ test integration on Cart page for checkout purpose
 Acceptable cards and UPI id can be found on Razorpay docs - https://razorpay.com/docs/payments/payments/test-card-upi-details/
 
 
+# Checkout here - 
+https://my-e-commerceeweb.netlify.app/
+
+
